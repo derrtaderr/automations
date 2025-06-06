@@ -1,0 +1,15 @@
+{
+  "framework": "nextjs",
+  "buildCommand": "npm run build",
+  "devCommand": "npm run dev",
+  "installCommand": "npm install",
+  "outputDirectory": ".next",
+  "functions": {
+    "src/app/api/generate/route.ts": {
+      "maxDuration": 30
+    }
+  },
+  "env": {
+    "CLAUDE_API_KEY": "@claude_api_key"
+  }
+} 
