@@ -2,7 +2,7 @@
 
 > **Transform natural language into powerful n8n automations in seconds**
 
-A cutting-edge Next.js application that leverages Claude 4 Opus to convert plain English descriptions into production-ready n8n workflows with embedded documentation, error handling, and one-click deployment capabilities.
+A Next.js application that leverages Claude 4 Opus to convert plain English descriptions into production-ready n8n workflows with embedded documentation, error handling, and one-click deployment capabilities.
 
 ![Next.js](https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript)
